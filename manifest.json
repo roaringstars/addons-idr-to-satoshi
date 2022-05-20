@@ -1,13 +1,14 @@
-{
-"manifest_version": 2,
+{ 
+    "manifest_version": 2,
     "name": "Kaca Mata Bitcoin by @roaringstars",
+    "version": "1.0", 
     "description": "Seeing price in Satoshi",
-    "version": "1.0",
-    "homepage_url": "https://roaringstars.com",
-    "icons": { 
+    "browser_action": { "default_icon": "icon128.png" }, 
+    "permissions": [ "roaringstars.com/" ],
+    "icons": {
         "16": "icon16.png",
         "48": "icon48.png",
-        "128": "icon128.png" 
+        "128": "icon128.png"
     },
     "content_scripts": [
         {
