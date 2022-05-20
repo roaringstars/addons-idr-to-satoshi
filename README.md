@@ -8,3 +8,7 @@ Addons browser Chrome untuk melihat harga dalam satuan Satoshi.
 
 ## Website yang berfungsi:
 - https://www.klikindomaret.com/
+
+
+## Preview 
+![Saat membuka klikindomaret.com](preview.gif)
