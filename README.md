@@ -1,4 +1,4 @@
-# Kata Mata Bitcoin by @roaringstars
+# Kaca Mata Bitcoin by @roaringstars
 Addons browser Chrome untuk melihat harga dalam satuan Satoshi.
 
 ## Website yang berfungsi:
